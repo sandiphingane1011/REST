@@ -1,0 +1,2 @@
+get-stud/<int:pk>/ ---get single student
+get-all-stud/ -- get all student
